@@ -32,5 +32,16 @@ The goal of this project is to analyze and predict student performance based on 
 - Removed missing values
 - Removed duplicates
 - Converted categorical data into numerical format
+  ## 📊 EDA Findings
+
+- Strong correlation between study hours and marks
+- Attendance significantly affects performance
+- Some features show normal distribution
+
+## 🔍 Key Observations
+
+- Students studying more than X hours perform better
+- Outliers were minimal after preprocessing
+- Data shows meaningful patterns useful for prediction
 
 
