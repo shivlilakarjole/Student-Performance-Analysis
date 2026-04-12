@@ -62,3 +62,23 @@ The goal of this project is to analyze and predict student performance based on 
 - Linear Regression R²: 1.0
 - Decision Tree R²: 0.92
 - Best Model: Linear regression
+  ## 📌 Final Project Summary
+This project analyzes and predicts student performance using data analytics and machine learning techniques.
+
+## 🔍 Key Findings
+- Study hours strongly affect marks
+- Attendance impacts performance
+- Model achieved good accuracy
+
+## 📂 Repository Structure
+- data_preprocessing.ipynb → Data cleaning
+- EDA.ipynb → Analysis & visualization
+- modeling.ipynb → Model building
+- outputs/ → Graphs
+- dashboard.pbix → Power BI dashboard
+- final_report.pdf → Final report
+
+## ▶️ How to Run
+1. Open notebooks in Google Colab
+2. Run preprocessing → EDA → modeling
+3. View dashboard using Power BI
