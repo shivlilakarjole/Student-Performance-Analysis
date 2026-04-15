@@ -4,8 +4,9 @@ Data Analytics Datathon Project
 
 ## 👤 Student Details
 - Name: Avani Atul Vibhute
-- Role: Data Wrangler + Model Developer + Visualizer
 - Contact: avanivibhute@gmail.com
+-  Name: Shivlila s  karjole
+- Contact: shivlilakarjole@gmail.com
 
 ## 🎯 Project Title
 Student Performance Analysis and Prediction
@@ -76,7 +77,7 @@ This project analyzes and predicts student performance using data analytics and 
 - modeling.ipynb → Model building
 - outputs/ → Graphs
 - dashboard.pbix → Power BI dashboard
-- final_report.pdf → Final report
+
 
 ## ▶️ How to Run
 1. Open notebooks in Google Colab
